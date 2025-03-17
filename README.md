@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Trinh Minh Triet">Trinh Minh Triet</a> 👋
 
-<!--
-**Jelius47/Jelius47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/jelius-heneriko-779557278/)
+[![Twitter Profile](images/twitter.png)](https://twitter.com/jelius07)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+### Glad to see you here!
+
+<img align="right" alt="Jelius H." src="images/coding.gif" width="400" />
+
+Love interacting with the community, sharing knowledge, and learning new things.
+
+**Talking about personal stuff:**
+
+- 👨 I’m Jelius Heneriko (jelius)
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: jeliusheneriko47@gmail.com
+  
