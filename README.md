@@ -15,4 +15,11 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 😄 Pronouns: he/him/his.
 - 📧 How to reach me: jeliusheneriko47@gmail.com
   #### **Nice to know you, <a href="https://my-portfolio-jelius.onrender.com" taregt="_blank" title="my portfolio">My potfolio</a>**
+ 
+
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jelius47}/count.svg" /></p> 
+</div>
   
