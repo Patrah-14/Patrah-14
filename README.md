@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Jelius Heneriko">Jelius Heneriko </a> 👋
 
-[![LinkedIn Profile](likenid32.png)](https://www.linkedin.com/in/jelius-heneriko-779557278/)
-[![Twitter Profile](pewpwe.png)](https://twitter.com/jelius07)
+[![LinkedIn Profile](likenid32.webp)](https://www.linkedin.com/in/jelius-heneriko-779557278/)
+[![Twitter Profile](pewpwe.jpg)](https://twitter.com/jelius07)
 
 
 </br>
