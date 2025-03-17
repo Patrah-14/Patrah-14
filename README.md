@@ -14,5 +14,5 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 👨 I’m Jelius Heneriko (jelius)
 - 😄 Pronouns: he/him/his.
 - 📧 How to reach me: jeliusheneriko47@gmail.com
-  #### ** Nice to know you, <a href="https://my-portfolio-jelius.onrender.com" taregt="_blank" title="my portfolio">My potfolio<\a>**
+  #### **Nice to know you, <a href="https://my-portfolio-jelius.onrender.com" taregt="_blank" title="my portfolio">My potfolio</a>**
   
