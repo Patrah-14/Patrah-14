@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Trinh Minh Triet">Trinh Minh Triet</a> 👋
+### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Jelius Heneriko">Jelius Heneriko </a> 👋
 
 [![LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/jelius-heneriko-779557278/)
 [![Twitter Profile](images/twitter.png)](https://twitter.com/jelius07)
