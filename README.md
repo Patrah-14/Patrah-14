@@ -25,7 +25,7 @@
 
 
 
-<img align="right" alt="Jelius H." src="pew.gif" width="300" />
+<img align="right" alt="Jelius H." src="pew.gif" width="350" />
 
 Love interacting with the community, sharing knowledge, and learning new things.
 
