@@ -6,9 +6,9 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/github/followers/Briso10-dev?style=social">
-  <img src="https://img.shields.io/badge/Follow-%40Briso_dev-ff69b4?style=social&logo=instagram">
-  <img src="https://img.shields.io/github/stars/Briso10-dev">
+  <img src="https://img.shields.io/github/followers/Jelius47?style=social">
+<!--   <img src="https://img.shields.io/badge/Follow-%40Briso_dev-ff69b4?style=social&logo=instagram"> -->
+  <img src="https://img.shields.io/github/stars/Jelius47">
 </div>
 </p>
  
