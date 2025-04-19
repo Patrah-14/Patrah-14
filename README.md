@@ -150,7 +150,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 </table>
 
 <!-- A resume of my stats -->
-<table cellpadding="0" border="0" width="100%">
+<table cellpadding="10" border="0" width="100%" align="center" >
   <!-- First Row: GIF spanning full width -->
 <!--   <tr>
     <td colspan="2" align="center">
