@@ -14,14 +14,16 @@
  
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40">this is Jelius Heneriko</h1>
 
-
+### Glad to see you here!
 </br>
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jelius47}/count.svg" /></p> 
 </div>
-### Glad to see you here!
+
+
+
 
 <img align="right" alt="Jelius H." src="pew.gif" width="400" />
 
