@@ -16,7 +16,11 @@
 
 
 </br>
-
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jelius47}/count.svg" /></p> 
+</div>
 ### Glad to see you here!
 
 <img align="right" alt="Jelius H." src="pew.gif" width="400" />
@@ -31,12 +35,8 @@ Love interacting with the community, sharing knowledge, and learning new things.
   #### **Nice to know you, <a href="https://my-portfolio-jelius.onrender.com" taregt="_blank" title="my portfolio">My potfolio</a>**
  
 
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jelius47}/count.svg" /></p> 
-</div>
-## My dev tools 🫰
+
+### My dev tools 🫰
 
 <table align="center" cellpadding="10"> 
     <!-- First Row: Languages -->
