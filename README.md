@@ -6,13 +6,13 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/github/followers/Jelius47?style=social">
+  <img src="https://img.shields.io/github/followers/Patrah-14!?style=social">
 <!--   <img src="https://img.shields.io/badge/Follow-%40Briso_dev-ff69b4?style=social&logo=instagram"> -->
-  <img src="https://img.shields.io/github/stars/Jelius47">
+  <img src="https://img.shields.io/github/stars/Patrah-14!">
 </div>
 </p>
  
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40">this is Jelius Heneriko</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40">this is Patrah Nicky</h1>
 
 ### Glad to see you here!
 </br>
