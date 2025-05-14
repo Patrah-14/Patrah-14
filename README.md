@@ -1,7 +1,7 @@
 <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There,+Me+is+Jelius!;Glad+to+see+you.;Just+check+out+my+projects😉" alt="Intro" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There,+Me+is+Patrah-14!;Glad+to+see+you.;Just+check+out+my+projects😉" alt="Intro" /> 
 </p>
 
 <p>
